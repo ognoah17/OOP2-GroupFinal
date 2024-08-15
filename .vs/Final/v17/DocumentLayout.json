@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\School\u0026Work\\source\\repos\\Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7119AFFD-7A54-4C6F-A9BB-BD15F757E5A6}|Final.csproj|c:\\users\\school\u0026work\\source\\repos\\final\\rentalitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7119AFFD-7A54-4C6F-A9BB-BD15F757E5A6}|Final.csproj|solutionrelative:rentalitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7119AFFD-7A54-4C6F-A9BB-BD15F757E5A6}|Final.csproj|c:\\users\\school\u0026work\\source\\repos\\final\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7119AFFD-7A54-4C6F-A9BB-BD15F757E5A6}|Final.csproj|solutionrelative:rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7119AFFD-7A54-4C6F-A9BB-BD15F757E5A6}|Final.csproj|c:\\users\\school\u0026work\\source\\repos\\final\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7119AFFD-7A54-4C6F-A9BB-BD15F757E5A6}|Final.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7119AFFD-7A54-4C6F-A9BB-BD15F757E5A6}|Final.csproj|c:\\users\\school\u0026work\\source\\repos\\final\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7119AFFD-7A54-4C6F-A9BB-BD15F757E5A6}|Final.csproj|solutionrelative:category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7119AFFD-7A54-4C6F-A9BB-BD15F757E5A6}|Final.csproj|c:\\users\\school\u0026work\\source\\repos\\final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7119AFFD-7A54-4C6F-A9BB-BD15F757E5A6}|Final.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7119AFFD-7A54-4C6F-A9BB-BD15F757E5A6}|Final.csproj|c:\\users\\school\u0026work\\source\\repos\\final\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7119AFFD-7A54-4C6F-A9BB-BD15F757E5A6}|Final.csproj|solutionrelative:equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RentalItem.cs",
+              "DocumentMoniker": "C:\\Users\\School\u0026Work\\source\\repos\\Final\\RentalItem.cs",
+              "RelativeDocumentMoniker": "RentalItem.cs",
+              "ToolTip": "C:\\Users\\School\u0026Work\\source\\repos\\Final\\RentalItem.cs",
+              "RelativeToolTip": "RentalItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T21:22:49.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rental.cs",
+              "DocumentMoniker": "C:\\Users\\School\u0026Work\\source\\repos\\Final\\Rental.cs",
+              "RelativeDocumentMoniker": "Rental.cs",
+              "ToolTip": "C:\\Users\\School\u0026Work\\source\\repos\\Final\\Rental.cs",
+              "RelativeToolTip": "Rental.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T21:20:53.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\School\u0026Work\\source\\repos\\Final\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\School\u0026Work\\source\\repos\\Final\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T21:09:35.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\School\u0026Work\\source\\repos\\Final\\Category.cs",
+              "RelativeDocumentMoniker": "Category.cs",
+              "ToolTip": "C:\\Users\\School\u0026Work\\source\\repos\\Final\\Category.cs",
+              "RelativeToolTip": "Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T21:13:38.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\School\u0026Work\\source\\repos\\Final\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "C:\\Users\\School\u0026Work\\source\\repos\\Final\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T21:14:57.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "C:\\Users\\School\u0026Work\\source\\repos\\Final\\Equipment.cs",
+              "RelativeDocumentMoniker": "Equipment.cs",
+              "ToolTip": "C:\\Users\\School\u0026Work\\source\\repos\\Final\\Equipment.cs",
+              "RelativeToolTip": "Equipment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T21:18:01.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
