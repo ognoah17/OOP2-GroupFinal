@@ -6,7 +6,7 @@ This was the final project of the **Object-Oriented Programming 2 (OOP2)** cours
 This project was collaboratively created by the following contributors:
 - **Jacob Jobse**
 - **Mostapha Alahmair**
-- **Noah**
+- **Noah Jobse**
 
 ## Features
 - **Order Management**: Create, track, and manage orders; view order history.
