@@ -1,6 +1,6 @@
-# Restaurant Management System - OOP2 School Project
+# Restaurant Management System - OOP2 Final Project
 
-This project was developed as part of the **Object-Oriented Programming 2 (OOP2)** course. It is a cross-platform **Restaurant Management System** built using **.NET MAUI** and **Blazor**, showcasing key OOP principles such as encapsulation, inheritance, and modular design. The system provides functionalities to manage orders, employees, menu items, and inventory while ensuring data persistence using SQLite.
+This was the final project of the **Object-Oriented Programming 2 (OOP2)** course. It is a **Restaurant Management System** built using **.NET MAUI** and **Blazor**, showcasing OOP principles such as encapsulation, inheritance, and modular design. The system provides functionalities to manage orders, employees, menu items, and inventory while ensuring data persistence using SQLite.
 
 ## Authors
 This project was collaboratively created by the following contributors:
